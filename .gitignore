@@ -1,0 +1,7 @@
+data/
+*.csv
+*.tar.gz
+*.pt
+*.ckpt
+__pycache__/
+.env
